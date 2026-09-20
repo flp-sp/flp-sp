@@ -3,6 +3,8 @@
 View CV - [pt-br](./docs/CV-Francisco-Felipe-Sampaio-Neto%20-%20pt-br.pdf)  
 View CV - [en](./docs/CV-Francisco-Felipe-Sampaio-Neto%20-%20%20en.pdf)
 
+View certificates - [certificates](./certification/)
+
 ---
 
 Software Engineering student focused on Backend, Low-Level Systems, and Web Development. Experienced in building APIs, custom operating systems, and desktop/mobile applications using Python, C, Java, and modern AI-assisted workflows (SDD).
